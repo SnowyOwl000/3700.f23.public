@@ -1,0 +1,3 @@
+/home/scsiet/Documents/3700/Project 2 CLion/cmake-build-debug/CMakeFiles/Project_2_CLion.dir
+/home/scsiet/Documents/3700/Project 2 CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scsiet/Documents/3700/Project 2 CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
